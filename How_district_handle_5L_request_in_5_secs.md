@@ -1,5 +1,8 @@
 # 🎟️ High-Scale Ticket Booking System — Zero Double Bookings
 
+
+<img width="1080" height="1350" alt="district_booking_flow" src="https://github.com/user-attachments/assets/a9c69f91-3947-45f4-8474-f291b4e74ce8" />
+
 > **How does a platform like District sell 5,00,000 tickets in 5 minutes without ever double-booking a seat?**
 
 This repo explains the architecture pattern used by large-scale ticketing platforms (District, BookMyShow, Ticketmaster) to handle massive concurrent booking spikes while guaranteeing that **no two users can ever own the same seat**.
